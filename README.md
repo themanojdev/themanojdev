@@ -20,5 +20,5 @@ Daily, hands-on Go learning — concepts, DSA, and a mini REST API project — a
 
 ## 📫 Reach me
 
-- 💼 LinkedIn: [linkedin.com/in/themaojdev](https://www.linkedin.com/in/themanojdev/)
+- 💼 LinkedIn: [linkedin.com/in/themanojdev](https://www.linkedin.com/in/themanojdev/)
 - ✉️ Email: manojnirmala0305@gmail.com
