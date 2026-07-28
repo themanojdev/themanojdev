@@ -57,14 +57,14 @@ I enjoy learning in public and documenting every step of my journey.
 
 Every concept I learn is committed publicly, following my own roadmap: **Core Go → Concurrency → Practical Go → End-to-End REST API**, alongside a parallel DSA track.
 
-🔗 **Repository:** [Go-Learnings](https://github.com/Manoj0305-student/Go-Learnings)
+🔗 **Repository:** [Go-Learnings](https://github.com/themanojdev/Go-Learnings)
 
 ---
 
 ## 🚀 Featured Projects
 
 ### ⭐ Go Learnings
-- Structured daily Go roadmap ([ROADMAP.md](https://github.com/Manoj0305-student/Go-Learnings/blob/main/ROADMAP.md))
+- Structured daily Go roadmap ([ROADMAP.md](https://github.com/themanojdev/Go-Learnings/blob/main/ROADMAP.md))
 - Go fundamentals through custom types & methods
 - Ongoing DSA problem-solving track
 - Mini Task Manager REST API (in progress)
@@ -105,8 +105,8 @@ Every concept I learn is committed publicly, following my own roadmap: **Core Go
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Manoj0305-student&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manoj0305-student&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=themanojdev&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=themanojdev&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -114,7 +114,7 @@ Every concept I learn is committed publicly, following my own roadmap: **Core Go
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Manoj0305-student&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=themanojdev&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -122,7 +122,7 @@ Every concept I learn is committed publicly, following my own roadmap: **Core Go
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Manoj0305-student&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=themanojdev&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
