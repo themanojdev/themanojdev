@@ -69,12 +69,6 @@ Every concept I learn is committed publicly, following my own roadmap: **Core Go
 - Ongoing DSA problem-solving track
 - Mini Task Manager REST API (in progress)
 
-### ⭐ Upcoming
-- Task Manager REST API (`handler → service → repository`, PostgreSQL, JWT auth)
-- URL Shortener
-- Worker Pool / Concurrency demos
-- Dockerized Go services
-
 ---
 
 ## 💻 Tech Stack
@@ -131,33 +125,6 @@ Every concept I learn is committed publicly, following my own roadmap: **Core Go
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manoj0305-student&theme=tokyo-night&hide_border=true"/>
 
 </div>
-
----
-
-## 📚 Go Learning Roadmap
-
-| Topic | Status |
-|---|:---:|
-| Go Basics, Variables & Control Flow | ✅ |
-| Arrays & Pointers | ✅ |
-| Slices, Strings & Runes | ✅ |
-| Maps | ✅ |
-| Functions | ✅ |
-| Custom Types & Methods | ✅ |
-| Interfaces | 🔄 |
-| Error Handling | ⏳ |
-| Goroutines & Channels | ⏳ |
-| select / sync package | ⏳ |
-| context package | ⏳ |
-| Generics | ⏳ |
-| Testing | ⏳ |
-| REST APIs (net/http) | ⏳ |
-| PostgreSQL | ⏳ |
-| Docker | ⏳ |
-| Task Manager REST API (end-to-end) | ⏳ |
-| DSA Track (Arrays done, Strings → Trees ongoing) | 🔄 |
-
-> Full breakdown in [ROADMAP.md](https://github.com/Manoj0305-student/Go-Learnings/blob/main/ROADMAP.md)
 
 ---
 
